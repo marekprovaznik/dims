@@ -2,7 +2,7 @@
 
 ## 0.1.8 (2026-10-25)
 
-- Marketplace discoverability: clearer description and more search keywords (debugger, variables, tensors, ndarray, dataframe, torch, jax, debugpy, …).
+- Marketplace discoverability: display name "dims – Tensor Shapes in Debugger", clearer description and more search keywords (debugger, variables, tensors, ndarray, dataframe, torch, jax, debugpy, …).
 - README: *Similar extensions* section comparing dims with Tensor Debugger Shape, Visible Shape and Array Inspector.
 
 ## 0.1.7 (2026-10-21)

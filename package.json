@@ -1,6 +1,6 @@
 {
   "name": "dims",
-  "displayName": "dims",
+  "displayName": "dims – Tensor Shapes in Debugger",
   "description": "Tensor, array and DataFrame shapes right in the Python debugger's Variables view (PyTorch, NumPy, pandas, TensorFlow)",
   "version": "0.1.8",
   "publisher": "provaznik",
