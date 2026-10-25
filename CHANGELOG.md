@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.8 (2026-10-25)
+
+- Marketplace discoverability: display name "dims – Tensor Shapes in Debugger", clearer description and more search keywords (debugger, variables, tensors, ndarray, dataframe, torch, jax, debugpy, …).
+- README: *Similar extensions* section comparing dims with Tensor Debugger Shape, Visible Shape and Array Inspector.
+
 ## 0.1.7 (2026-10-21)
 
 - Support link: Buy Me a Coffee badge in the README header and a *Support* section with the button, a *Sponsor* button on the extension's details page in VS Code (`sponsor` in `package.json`), and the GitHub *Sponsor* button (`.github/FUNDING.yml`).
